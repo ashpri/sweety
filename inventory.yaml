@@ -1,0 +1,7 @@
+ - hosts: all
+   tasks:
+   - name: copy and paste
+     yum:
+	   name:
+	     - httpd
+	   state: latest
