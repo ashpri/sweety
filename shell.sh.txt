@@ -1,0 +1,4 @@
+#! /bin/bash
+echo "enter your name "
+echo "can you enter value of a"
+read "enter the server details"
